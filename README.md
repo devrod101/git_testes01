@@ -2,6 +2,8 @@
 
 ## utilizar PY
 
-[] gerar testes
-[] merge e branch
-[] rebase
+[ ] gerar testes
+
+[ ] merge e branch
+
+[ ] rebase
